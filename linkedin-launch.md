@@ -1,10 +1,10 @@
 # LinkedIn launch post / Publicación para LinkedIn
 
-Replace `[PORTFOLIO URL]` with the published website address before posting.
+Replace `https://nieves-andaluz.github.io/nieves-andaluz-portfolio/` with the published website address before posting.
 
 ## English
 
-I’m excited to share my professional portfolio: [PORTFOLIO URL]
+I’m excited to share my professional portfolio: https://nieves-andaluz.github.io/nieves-andaluz-portfolio/
 
 My background spans Customer Success, Customer Experience and operations, with specialist experience in AI quality audits across projects for different companies and prompt engineering. My international experience includes four years living and working in Ireland. Across roles, I’ve worked in customer support, ticketing and event operations, compliance audits, and process improvement.
 
@@ -16,7 +16,7 @@ I’m always glad to connect with people working in Customer Experience, AI Oper
 
 ## Español
 
-Me hace ilusión compartir mi portafolio profesional: [PORTFOLIO URL]
+Me hace ilusión compartir mi portafolio profesional: https://nieves-andaluz.github.io/nieves-andaluz-portfolio/
 
 Mi trayectoria abarca Customer Success, experiencia de cliente y operaciones, con especialización en auditorías de calidad de IA para proyectos de distintas empresas y prompt engineering. Viví y trabajé cuatro años en Irlanda. En distintos puestos internacionales he trabajado en atención al cliente, ticketing y operaciones de eventos, auditorías de cumplimiento y mejora de procesos.
 
